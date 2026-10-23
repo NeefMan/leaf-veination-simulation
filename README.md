@@ -1,6 +1,6 @@
 # Interactive Leaf Vein Growth Simulation
 
-Leaf veins form branching networks as they grow toward sources of growth signals. This browser-based JavaScript simulation lets you explore a simple version of that process: each press of **Space** adds attraction points and advances a network of vein points toward them. The result makes the relationship between local attraction and the emerging pattern visible one step at a time.
+Leaf veins form branching networks as they grow toward sources of growth signals. This browser-based JavaScript simulation models that process using a simple growth algorithm. Pressing the spacebar generates new attraction points and advances a network of vein points toward them. The result demonstrates how a simple algorithm can produce complex branching patterns resembling those found in real leaves.
 
 ## Team members
 
